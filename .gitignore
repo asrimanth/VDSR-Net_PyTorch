@@ -3,3 +3,5 @@ DIV2K/
 SampleSet/
 .ipynb_checkpoints/
 __pycache__/
+Flickr2K_Downsampled/
+models/
