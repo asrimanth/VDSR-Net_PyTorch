@@ -148,6 +148,5 @@ if __name__ == "__main__":
     print("-"*105)
     print("Feeding test input to the model: A single grayscale image of size 128x128")
     test_input = torch.randn((1, 3, 41, 41))
-    residual = torch.randn((1, 3, 41, 41))
-    out = vdsr_net(test_input, residual)
+    out = vdsr_net(test_input)
     print(f"Output shape {out.shape}")

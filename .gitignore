@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 wandb
 set14_results
 .ipynb_checkpoints
 models
 __pycache__
+=======
+Flickr2K/
+DIV2K/
+SampleSet/
+.ipynb_checkpoints/
+__pycache__/
+Flickr2K_Downsampled/
+models/
+>>>>>>> origin/main
